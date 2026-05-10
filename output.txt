@@ -1,0 +1,3 @@
+AG count:1 T:1
+GT count:1 G:1
+TG count:1 
